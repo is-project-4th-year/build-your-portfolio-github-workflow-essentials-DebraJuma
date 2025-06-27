@@ -2,51 +2,95 @@
 
 ## 1. Student Details
 
-- **Full Name**:
-- **GitHub Username**:
-- **Email**:
+- **Full Name**: Debra Juma  
+- **Admission Number**: 151547
+- **GitHub Username**: DebraJuma  
+- **Email**: debra.juma@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+ **GitHub Pages URL**:  
+  https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-DebraJuma/
 
 ## 3. Learnings from the Git Crash Program
 
-List at least **four key concepts or skills** you learned during the Git crash course. For each one, write a brief explanation of how it helped you manage your portfolio project more effectively.
+**What I Thought I'd Learn vs What I Actually Learned**
 
-Example format:
+### Concept: GitHub Project Boards
 
-- **Branching**: Helped me separate features and prevent conflicts when working on different sections of the site.
-- _(Continue with other concepts…)_
+**Expectation 👀**: I thought project boards were meant only for big professional teams working on massive projects.
+
+**Reality 😅**: They turned out to be like simple visual to-do lists where I could track my tasks easily and move them as I progressed.
+
+**Impact 💡**: Helped me stay organized and motivated, especially when building each section of my portfolio step by step.
+
+---
+
+### Concept: Branching
+
+**Expectation 👀**: I expected branching to be unnecessary for one-person projects and only useful when multiple developers are working together.
+
+**Reality 😅**: Branches actually gave me a safe place to try out new designs or content without affecting my main site.
+
+**Impact 💡**: I could confidently experiment with styling or new sections in separate branches, then merge when happy with my changes.
+
+---
+
+### Concept: Pull Requests (PRs)
+
+**Expectation 👀**: I assumed pull requests were overly formal, and only teams needed them for code reviews.
+
+**Reality 😅**: PRs were super useful even solo  they gave me a clear overview of what each branch changed, and a way to merge it cleanly.
+
+**Impact 💡**: Made my workflow much clearer and allowed me to track changes while documenting my progress.
+
+---
+
+### Concept: Merge Conflicts
+
+**Expectation 👀**: I thought merge conflicts would be confusing, and I worried they would break my entire project.
+
+**Reality 😅**: They were pretty simple to resolve GitHub highlighted the conflicts and allowed me to choose what I wanted to keep.
+
+**Impact 💡**: Gave me confidence that I could fix issues myself and continue working smoothly, even if branches overlapped.
+
+---
 
 ## 4. Screenshots of Key GitHub Features
 
-Include screenshots that demonstrate how you used GitHub to manage your project. For each screenshot, write a short caption explaining what it shows.
-
-> Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
-> (you could just simply copy and paste the image into the Assignment.md)
-
-```markdown
-![Caption](path/to/your/image.png)
-```
 
 ### A. Milestones and Issues
 
-- Screenshot showing your milestone(s) and the issues linked to it.
+
+![Milestones and Issues](images/milestone.png)
+![Milestones and Issues](images/issues.png)
+this shows some milestonses and issues
+
+
+
 
 ### B. Project Board
 
-- Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
+![project board](images/project.png)
+
+this shows my project board with tasks in different states like Todo,In Progress and Done
 
 ### C. Branching
 
-- Screenshot showing your branch list with meaningful naming.
+![Branching](images/branches.png)
+ these are the different branches I have
 
 ### D. Pull Requests
 
-- Screenshot of a pull request that’s either open or merged and linked to a related issue.
+![Pull Requests](images/pull.png)
+
+
+this shows a merged pull request
+
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+![Merge Conflict Resolution](images/merge.png)
+
+this shows one unresolved merge conflict,which i was able to resolve
+
