@@ -50,7 +50,7 @@
 
 **Expectation 👀**: I thought merge conflicts would be confusing, and I worried they would break my entire project.
 
-**Reality 😅**: They were actually pretty simple to resolve GitHub highlighted the conflicts and allowed me to choose what I wanted to keep.
+**Reality 😅**: They were pretty simple to resolve GitHub highlighted the conflicts and allowed me to choose what I wanted to keep.
 
 **Impact 💡**: Gave me confidence that I could fix issues myself and continue working smoothly, even if branches overlapped.
 
