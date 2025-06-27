@@ -5,12 +5,12 @@
 - **Full Name**: Debra Juma  
 - **Admission Number**: 123456  
 - **GitHub Username**: DebraJuma  
-- **Email**: debra.juma4@strathmore.edu
+- **Email**: debra.juma@strathmore.edu
 
 ## 2. Deployed Portfolio Link
 
 - **GitHub Pages URL**:  
-  _(Provide the live link to your deployed portfolio website)_
+  https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-DebraJuma/
 
 ## 3. Learnings from the Git Crash Program
 
