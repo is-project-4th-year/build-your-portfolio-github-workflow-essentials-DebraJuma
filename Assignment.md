@@ -3,7 +3,7 @@
 ## 1. Student Details
 
 - **Full Name**: Debra Juma  
-- **Admission Number**: 123456  
+- **Admission Number**: 151547
 - **GitHub Username**: DebraJuma  
 - **Email**: debra.juma@strathmore.edu
 
@@ -40,7 +40,7 @@
 
 **Expectation 👀**: I assumed pull requests were overly formal, and only teams needed them for code reviews.
 
-**Reality 😅**: PRs were super useful even solo — they gave me a clear overview of what each branch changed, and a way to merge it cleanly.
+**Reality 😅**: PRs were super useful even solo  they gave me a clear overview of what each branch changed, and a way to merge it cleanly.
 
 **Impact 💡**: Made my workflow much clearer and allowed me to track changes while documenting my progress.
 
@@ -50,7 +50,7 @@
 
 **Expectation 👀**: I thought merge conflicts would be confusing, and I worried they would break my entire project.
 
-**Reality 😅**: They were actually pretty simple to resolve — GitHub highlighted the conflicts and allowed me to choose what I wanted to keep.
+**Reality 😅**: They were actually pretty simple to resolve GitHub highlighted the conflicts and allowed me to choose what I wanted to keep.
 
 **Impact 💡**: Gave me confidence that I could fix issues myself and continue working smoothly, even if branches overlapped.
 
@@ -64,7 +64,7 @@
 
 ![Milestones and Issues](images/milestone.png)
 ![Milestones and Issues](images/issues.png)
-
+this shows some milestonses and issues
 
 
 
@@ -73,24 +73,24 @@
 
 ![project board](images/project.png)
 
-
+this shows my project board with tasks in different states like Todo,In Progress and Done
 
 ### C. Branching
 
 ![Branching](images/branches.png)
-
+ these are the different branches I have
 
 ### D. Pull Requests
 
 ![Pull Requests](images/pull.png)
 
 
-
+this shows a merged pull request
 
 
 ### E. Merge Conflict Resolution
 
 ![Merge Conflict Resolution](images/merge.png)
 
-
+this shows one unresolved merge conflict,which i was able to resolve
 
